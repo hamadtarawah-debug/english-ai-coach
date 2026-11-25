@@ -1,0 +1,92 @@
+{
+  "id": "a1-02-present-simple",
+  "level": "A1",
+  "order": 2,
+  "title": "Present simple: I work, she works",
+  "goal": "Talk about your routine, habits and facts — and remember the -s with he/she/it.",
+  "keyPoints": [
+    "Use the present simple for habits, routines and facts",
+    "I/you/we/they + verb (I work); he/she/it + verb + s (she works)",
+    "Spelling: watch → watches, study → studies, go → goes, have → has",
+    "Do not use 'be' with another verb: 'I work', never 'I am work'"
+  ],
+  "grammar": {
+    "explanation": [
+      "We use the **present simple** for things that are **always or usually true**: routines (*I wake up at 7*), habits (*She drinks coffee every morning*) and facts (*Water boils at 100°C*).",
+      "The form is easy: **the base verb**. But with **he, she, it** (or one person/thing: *my brother, the app*) we add **-s**: I work → he work**s**. This small **-s** is the most common mistake for learners — listen for it!",
+      "**Spelling:** -ch, -sh, -s, -x, -o → add **-es** (*watches, washes, goes, does*). Consonant + y → **-ies** (*study → studies*). **have → has**.",
+      "Do not put **am/is/are** before another verb in the present simple: not *I am work* → **I work**."
+    ],
+    "table": {
+      "headers": ["Subject", "Verb", "Example"],
+      "rows": [
+        ["I / you / we / they", "base verb", "I live in Amman. They play football."],
+        ["he / she / it", "verb + s / es", "He lives in Cairo. She watches series."],
+        ["he / she / it (have)", "has", "My brother has a car."]
+      ]
+    },
+    "examples": [
+      { "en": "I get up at six and pray Fajr.", "note": "routine" },
+      { "en": "My sister studies medicine at university.", "note": "study → studies" },
+      { "en": "He goes to the gym three times a week.", "note": "go → goes" },
+      { "en": "Our team has a meeting every Sunday.", "note": "team = it → has" },
+      { "en": "The app saves your progress in the browser.", "note": "a thing (it) → saves" },
+      { "en": "We usually eat dinner at eight.", "note": "we → no s" }
+    ],
+    "mistakes": [
+      { "wrong": "She work in a bank.", "right": "She works in a bank.", "why": "he / she / it → add -s." },
+      { "wrong": "I am work from home.", "right": "I work from home.", "why": "Do not use am/is/are + verb in the present simple." },
+      { "wrong": "My father have two cars.", "right": "My father has two cars.", "why": "he/she/it → has." },
+      { "wrong": "He studys English.", "right": "He studies English.", "why": "consonant + y → -ies." }
+    ]
+  },
+  "exercises": [
+    { "type": "choice", "q": "My brother ___ in Dubai.", "options": ["live", "lives", "is live"], "answer": ["lives"] },
+    { "type": "choice", "q": "We ___ English every day.", "options": ["practise", "practises", "are practise"], "answer": ["practise", "practice"] },
+    { "type": "fill", "q": "She ___ (watch) the news every evening.", "answer": ["watches"] },
+    { "type": "fill", "q": "My friend ___ (study) computer science.", "answer": ["studies"] },
+    { "type": "fill", "q": "Our manager ___ (have) a lot of meetings.", "answer": ["has"] },
+    { "type": "fill", "q": "The bus ___ (go) to the city centre.", "answer": ["goes"] },
+    { "type": "fix", "q": "I am drink tea in the morning.", "answer": ["I drink tea in the morning."] },
+    { "type": "fix", "q": "He finish work at five.", "answer": ["He finishes work at five."] },
+    { "type": "fix", "q": "My parents lives in a small town.", "answer": ["My parents live in a small town."] },
+    { "type": "order", "q": "every / she / walks / day / to work", "answer": ["She walks to work every day."] },
+    { "type": "order", "q": "code / Java / in / I / write", "answer": ["I write code in Java."] },
+    { "type": "choice", "q": "The shop ___ at 9 a.m.", "options": ["open", "opens", "is open at"], "answer": ["opens"] }
+  ],
+  "listening": {
+    "title": "A normal day",
+    "script": [
+      { "speaker": "Lina", "text": "Ahmad, what time do you start work?" },
+      { "speaker": "Ahmad", "text": "I start at nine, but I get up very early, at six." },
+      { "speaker": "Lina", "text": "Six? That's early! What do you do in the morning?" },
+      { "speaker": "Ahmad", "text": "I pray, I read for thirty minutes, and I have breakfast with my family." },
+      { "speaker": "Lina", "text": "Nice. My husband gets up early too. He goes to the gym before work." },
+      { "speaker": "Ahmad", "text": "And you? Do you go with him?" },
+      { "speaker": "Lina", "text": "No! I sleep. I work from home, so I start at ten." },
+      { "speaker": "Ahmad", "text": "Lucky you. My office is far, so I take the bus for forty minutes." },
+      { "speaker": "Lina", "text": "The bus? My brother takes the bus too. He listens to podcasts." },
+      { "speaker": "Ahmad", "text": "Me too! I listen to English podcasts every day." }
+    ],
+    "questions": [
+      { "q": "What time does Ahmad get up?", "options": ["At six.", "At nine.", "At ten."], "answer": "At six." },
+      { "q": "What does Lina's husband do before work?", "options": ["He reads.", "He goes to the gym.", "He takes the bus."], "answer": "He goes to the gym." },
+      { "q": "Why does Lina start at ten?", "options": ["She gets up late.", "She works from home.", "Her office is far."], "answer": "She works from home." },
+      { "q": "Which sentence is correct?", "options": ["Lina's brother take the bus.", "Lina's brother takes the bus.", "Lina's brother is take the bus."], "answer": "Lina's brother takes the bus." }
+    ]
+  },
+  "writing": {
+    "task": "Describe a normal weekday for you AND for one person in your family (8–10 sentences). What time do you get up? What do you do in the morning, afternoon and evening? What does he/she do?",
+    "minWords": 70,
+    "tips": [
+      "Half of your sentences should be about 'he' or 'she' — check every -s!",
+      "Use time words: every day, usually, in the morning, at 7 o'clock."
+    ]
+  },
+  "speaking": {
+    "scenario": "A new friend at the gym is curious about your daily life.",
+    "aiRole": "Ben, a friendly person at the gym who likes talking about daily routines",
+    "goal": "Describe your routine and the routine of one family member or friend (he/she + -s). Ask Ben about his day.",
+    "starter": "Hey! I see you here a lot. So, what does a normal day look like for you?"
+  }
+}
