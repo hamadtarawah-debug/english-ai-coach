@@ -1,0 +1,94 @@
+{
+  "id": "a1-06-present-continuous",
+  "level": "A1",
+  "order": 6,
+  "title": "Present continuous: I am working now",
+  "goal": "Talk about actions happening now and around now: am/is/are + verb-ing.",
+  "keyPoints": [
+    "Form: am / is / are + verb-ing (I'm working, she's cooking)",
+    "Use it for now, at the moment, and temporary situations (this week, these days)",
+    "Negative: I'm not / isn't / aren't + -ing. Question: Are you working? What is he doing?",
+    "Spelling: make → making, run → running, study → studying",
+    "Do not forget am/is/are: 'I am waiting', never 'I waiting'"
+  ],
+  "grammar": {
+    "explanation": [
+      "We use the **present continuous** for actions that are happening **now**: *I'**m** read**ing** a lesson. Look! It'**s** rain**ing**.* — and for **temporary** things around now: *I'**m** learn**ing** Spring Boot this month.*",
+      "**Form:** **am / is / are + verb-ing**. Both parts are needed! Many learners say *I waiting*, but English needs **be**: *I **am** waiting.*",
+      "**Spelling:** most verbs + ing (*work → working*). Verbs ending in -e: remove e (*make → making*). Short verbs with one vowel + one consonant: double the consonant (*run → running, sit → sitting*).",
+      "**Present simple vs continuous:** *I **work** in a bank* (always, my job) — *I'**m working** from home today* (only now/today). Some verbs are usually **not** used in -ing form: *like, want, need, know, understand*: *I **want** a coffee* (not *I'm wanting*)."
+    ],
+    "table": {
+      "headers": ["", "Example"],
+      "rows": [
+        ["Positive", "I'm working. / She's studying. / They're playing."],
+        ["Negative", "I'm not working. / He isn't listening. / We aren't watching."],
+        ["Yes/No question", "Are you working? — Yes, I am. / No, I'm not."],
+        ["Wh- question", "What are you doing? / Why is she crying?"]
+      ]
+    },
+    "examples": [
+      { "en": "Sorry, I can't talk now. I'm driving.", "note": "happening now" },
+      { "en": "My sister is studying for her exams this week.", "note": "temporary" },
+      { "en": "What are you doing? — I'm fixing a bug.", "note": "wh- question" },
+      { "en": "The kids aren't sleeping. They're playing!", "note": "negative + positive" },
+      { "en": "Is it raining outside? — No, it isn't.", "note": "short answer" },
+      { "en": "I usually take the bus, but today I'm walking.", "note": "usual (simple) vs today (continuous)" }
+    ],
+    "mistakes": [
+      { "wrong": "I waiting for you.", "right": "I am waiting for you.", "why": "Present continuous needs am/is/are." },
+      { "wrong": "She is cook dinner now.", "right": "She is cooking dinner now.", "why": "Add -ing to the verb." },
+      { "wrong": "What you are doing?", "right": "What are you doing?", "why": "Question: wh- word + are + subject + -ing." },
+      { "wrong": "I am wanting a new laptop.", "right": "I want a new laptop.", "why": "'want' is not normally used with -ing." }
+    ]
+  },
+  "exercises": [
+    { "type": "choice", "q": "Be quiet! The baby ___.", "options": ["sleeps", "is sleeping", "sleeping"], "answer": ["is sleeping"] },
+    { "type": "choice", "q": "What ___ you doing?", "options": ["is", "are", "do"], "answer": ["are"] },
+    { "type": "choice", "q": "I ___ a new language these days.", "options": ["learning", "am learning", "learn now"], "answer": ["am learning"] },
+    { "type": "fill", "q": "They ___ (watch) a film at the moment.", "answer": ["are watching", "'re watching"] },
+    { "type": "fill", "q": "He ___ (not / work) today. He's sick.", "answer": ["isn't working", "is not working"] },
+    { "type": "fill", "q": "Look! It ___ (start) to rain.", "answer": ["is starting", "'s starting"] },
+    { "type": "fix", "q": "We waiting for the bus.", "answer": ["We are waiting for the bus.", "We're waiting for the bus."] },
+    { "type": "fix", "q": "Why you are laughing?", "answer": ["Why are you laughing?"] },
+    { "type": "fix", "q": "She is runing in the park.", "answer": ["She is running in the park.", "She's running in the park."] },
+    { "type": "order", "q": "are / you / listening / me / to / ?", "answer": ["Are you listening to me?"] },
+    { "type": "order", "q": "my / is / brother / a / building / website", "answer": ["My brother is building a website."] },
+    { "type": "choice", "q": "I ___ in Amman, but this month I'm staying in Istanbul.", "options": ["live", "am living", "living"], "answer": ["live"], "why": "Your normal home (always) → present simple." }
+  ],
+  "listening": {
+    "title": "A phone call on Friday",
+    "script": [
+      { "speaker": "Noor", "text": "Hi Karim! What are you doing? Are you busy?" },
+      { "speaker": "Karim", "text": "Hi Noor. I'm working, but I'm taking a short break now." },
+      { "speaker": "Noor", "text": "Working on Friday? Are you at the office?" },
+      { "speaker": "Karim", "text": "No, I'm not. I'm working from a café. We're finishing a big project this week." },
+      { "speaker": "Noor", "text": "I see. Is your team working today too?" },
+      { "speaker": "Karim", "text": "Yes, they are. Hassan is testing the app and Maya is writing the documentation." },
+      { "speaker": "Noor", "text": "Poor you! I'm sitting in the garden with my family. The kids are playing football." },
+      { "speaker": "Karim", "text": "That sounds great. What's your mother doing?" },
+      { "speaker": "Noor", "text": "She's making coffee and laughing at the kids." },
+      { "speaker": "Karim", "text": "Save me a coffee! I'm coming at five." }
+    ],
+    "questions": [
+      { "q": "Where is Karim working?", "options": ["At the office.", "From a café.", "At home."], "answer": "From a café." },
+      { "q": "What is Hassan doing?", "options": ["Testing the app.", "Writing documentation.", "Playing football."], "answer": "Testing the app." },
+      { "q": "What is Noor's mother doing?", "options": ["She's playing with the kids.", "She's making coffee.", "She's sleeping."], "answer": "She's making coffee." },
+      { "q": "'We're finishing a big project this week.' Why the present continuous?", "options": ["It is a temporary action around now.", "It is a habit.", "It is in the past."], "answer": "It is a temporary action around now." }
+    ]
+  },
+  "writing": {
+    "task": "It's 7 p.m. right now. Write a message to a friend about what is happening around you and in your life these days (8–10 sentences): what you, your family and your neighbours are doing now, and what you are working on or learning this month.",
+    "minWords": 70,
+    "tips": [
+      "Use am/is/are + -ing in most sentences. Check: is the 'be' there?",
+      "Add one sentence in the present simple for a habit (I usually…, but today I'm…)."
+    ]
+  },
+  "speaking": {
+    "scenario": "Your friend calls you on a video call and wants to know what is happening in your life right now.",
+    "aiRole": "Maya, an old friend calling from another country who is curious about your life now",
+    "goal": "Describe what you are doing right now, what people around you are doing, and what you are working on or learning these days. Ask Maya what she is doing.",
+    "starter": "Hey! It's so good to see you! Where are you right now? What are you doing?"
+  }
+}
