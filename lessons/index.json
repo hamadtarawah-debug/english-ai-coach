@@ -1,0 +1,14 @@
+{
+  "levels": [
+    { "id": "A1", "name": "Beginner", "description": "The base of English sentences: be, present simple, articles, there is/are, present continuous, can, past simple…" },
+    { "id": "A2", "name": "Elementary", "description": "Past continuous, present perfect, comparatives, future forms, modals, conditionals…" }
+  ],
+  "lessons": [
+    { "id": "a1-01-verb-to-be", "level": "A1", "order": 1, "title": "The verb “to be”: am, is, are", "goal": "Say who you are, what you do and how you feel.", "file": "a1/01-verb-to-be.json" },
+    { "id": "a1-02-present-simple", "level": "A1", "order": 2, "title": "Present simple: I work, she works", "goal": "Talk about routines — and remember the -s with he/she/it.", "file": "a1/02-present-simple.json" },
+    { "id": "a1-03-do-does", "level": "A1", "order": 3, "title": "Present simple: don't / doesn't, Do…? / Does…?", "goal": "Make negatives and ask questions about habits.", "file": "a1/03-present-simple-negatives-questions.json" },
+    { "id": "a1-04-articles", "level": "A1", "order": 4, "title": "Articles: a, an, the (and no article)", "goal": "Choose a / an / the — or nothing — correctly.", "file": "a1/04-articles.json" },
+    { "id": "a1-05-there-is-are", "level": "A1", "order": 5, "title": "There is / There are", "goal": "Say what exists in a place.", "file": "a1/05-there-is-there-are.json" },
+    { "id": "a1-06-present-continuous", "level": "A1", "order": 6, "title": "Present continuous: I am working now", "goal": "Talk about actions happening now: am/is/are + -ing.", "file": "a1/06-present-continuous.json" }
+  ]
+}
