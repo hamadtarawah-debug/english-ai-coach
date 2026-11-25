@@ -1,0 +1,94 @@
+{
+  "id": "a1-03-do-does",
+  "level": "A1",
+  "order": 3,
+  "title": "Present simple: don't / doesn't, Do…? / Does…?",
+  "goal": "Make negatives and ask questions about habits — the -s moves to 'does'.",
+  "keyPoints": [
+    "Negative: I/you/we/they don't + verb; he/she/it doesn't + verb",
+    "Question: Do/Does + subject + verb? (Does she work…?)",
+    "After does/doesn't the verb has NO -s: She doesn't work (not 'doesn't works')",
+    "Wh- questions: Where do you live? What does he do?"
+  ],
+  "grammar": {
+    "explanation": [
+      "To make a **negative** in the present simple, use **don't** (do not) or **doesn't** (does not) + the base verb: *I don't drink coffee. She doesn't eat meat.*",
+      "To make a **question**, put **Do** or **Does** at the start: *Do you like football? Does he live here?*",
+      "**Important:** the **-s** of he/she/it moves to **does**. So the main verb has **no -s**: She work**s** → She **doesn't** work → **Does** she work?",
+      "For questions with a question word, the order is: **Question word + do/does + subject + verb?** — *Where **do** you live? What time **does** the shop open? What **does** your brother do?* (= What is his job?)"
+    ],
+    "table": {
+      "headers": ["", "I / you / we / they", "he / she / it"],
+      "rows": [
+        ["Negative", "I don't work on Fridays.", "He doesn't work on Fridays."],
+        ["Yes/No question", "Do you work on Fridays?", "Does he work on Fridays?"],
+        ["Short answer", "Yes, I do. / No, I don't.", "Yes, he does. / No, he doesn't."],
+        ["Wh- question", "Where do you work?", "Where does he work?"]
+      ]
+    },
+    "examples": [
+      { "en": "I don't like long meetings.", "note": "I → don't" },
+      { "en": "My mother doesn't speak English.", "note": "she → doesn't + speak (no s)" },
+      { "en": "Do you work on Saturdays? — No, I don't.", "note": "short answer" },
+      { "en": "Does your company use Java? — Yes, it does.", "note": "it → does" },
+      { "en": "What does your father do? — He's an accountant.", "note": "What … do? = What is your job?" },
+      { "en": "How often do you practise English?", "note": "wh- question" }
+    ],
+    "mistakes": [
+      { "wrong": "She doesn't works here.", "right": "She doesn't work here.", "why": "After doesn't, use the base verb (no -s)." },
+      { "wrong": "You like coffee?", "right": "Do you like coffee?", "why": "Present simple questions need do/does." },
+      { "wrong": "Where you live?", "right": "Where do you live?", "why": "Wh- word + do/does + subject + verb." },
+      { "wrong": "He don't have a car.", "right": "He doesn't have a car.", "why": "he/she/it → doesn't." }
+    ]
+  },
+  "exercises": [
+    { "type": "choice", "q": "My brother ___ like fish.", "options": ["don't", "doesn't", "isn't"], "answer": ["doesn't"] },
+    { "type": "choice", "q": "___ your parents live with you?", "options": ["Do", "Does", "Are"], "answer": ["Do"] },
+    { "type": "choice", "q": "Does she ___ in an office?", "options": ["work", "works", "working"], "answer": ["work"] },
+    { "type": "fill", "q": "I ___ (not / watch) TV in the morning.", "answer": ["don't watch", "do not watch"] },
+    { "type": "fill", "q": "The app ___ (not / work) without internet.", "answer": ["doesn't work", "does not work"] },
+    { "type": "fill", "q": "Where ___ your sister work?", "answer": ["does"] },
+    { "type": "fix", "q": "He doesn't speaks French.", "answer": ["He doesn't speak French.", "He does not speak French."] },
+    { "type": "fix", "q": "What time you start work?", "answer": ["What time do you start work?"] },
+    { "type": "fix", "q": "Does she likes her job?", "answer": ["Does she like her job?"] },
+    { "type": "order", "q": "do / what / you / do / ?", "answer": ["What do you do?"] },
+    { "type": "order", "q": "does / the / when / meeting / start / ?", "answer": ["When does the meeting start?"] },
+    { "type": "choice", "q": "Do you have a car? — No, I ___.", "options": ["don't", "doesn't", "haven't"], "answer": ["don't"] }
+  ],
+  "listening": {
+    "title": "Getting to know a flatmate",
+    "script": [
+      { "speaker": "Yusuf", "text": "So, Daniel, what do you do?" },
+      { "speaker": "Daniel", "text": "I'm a nurse. I work at the city hospital." },
+      { "speaker": "Yusuf", "text": "Do you work at night?" },
+      { "speaker": "Daniel", "text": "Yes, I do, sometimes. I don't sleep much! What about you?" },
+      { "speaker": "Yusuf", "text": "I'm a backend developer. I don't work at night, but I start early." },
+      { "speaker": "Daniel", "text": "Does your company have an office here?" },
+      { "speaker": "Yusuf", "text": "No, it doesn't. I work from home, in my room." },
+      { "speaker": "Daniel", "text": "OK. Do you cook? I don't cook very well." },
+      { "speaker": "Yusuf", "text": "Yes, I cook every day. My mother teaches me on video calls!" },
+      { "speaker": "Daniel", "text": "Great. Does she teach you Arabic food?" },
+      { "speaker": "Yusuf", "text": "Yes, she does. I can make maqluba for you on Friday." }
+    ],
+    "questions": [
+      { "q": "What does Daniel do?", "options": ["He's a developer.", "He's a nurse.", "He's a cook."], "answer": "He's a nurse." },
+      { "q": "Where does Yusuf work?", "options": ["In an office.", "At the hospital.", "At home."], "answer": "At home." },
+      { "q": "Who teaches Yusuf to cook?", "options": ["Daniel.", "His mother.", "A video course."], "answer": "His mother." },
+      { "q": "Which question is correct?", "options": ["Does she teaches you?", "Does she teach you?", "Do she teach you?"], "answer": "Does she teach you?" }
+    ]
+  },
+  "writing": {
+    "task": "Write about things you DO and DON'T do, and things a friend does and doesn't do (6 sentences). Then write 4 questions you want to ask a new colleague.",
+    "minWords": 60,
+    "tips": [
+      "Use don't AND doesn't at least twice each.",
+      "Write 2 yes/no questions (Do…? / Does…?) and 2 wh- questions (Where do…? What does…?)."
+    ]
+  },
+  "speaking": {
+    "scenario": "You are looking for a flatmate. You meet someone who wants to share your flat. You both ask questions about habits.",
+    "aiRole": "Daniel, a possible flatmate who answers questions and also asks you many 'Do you…?' questions",
+    "goal": "Ask at least 5 questions with Do/Does (Do you smoke? Does your friend visit often?) and answer Daniel with short answers (Yes, I do / No, I don't) plus one more sentence.",
+    "starter": "Hi, I'm Daniel. Thanks for showing me the flat. Can I ask some questions first? Do you work from home?"
+  }
+}
