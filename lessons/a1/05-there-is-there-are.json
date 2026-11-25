@@ -1,0 +1,94 @@
+{
+  "id": "a1-05-there-is-are",
+  "level": "A1",
+  "order": 5,
+  "title": "There is / There are",
+  "goal": "Say what exists in a place: There is a café… There are two parks…",
+  "keyPoints": [
+    "There is + singular / uncountable (There is a bank. There is some milk.)",
+    "There are + plural (There are three bedrooms.)",
+    "Negative: There isn't a… / There aren't any…",
+    "Question: Is there a…? / Are there any…? — Short answer: Yes, there is. / No, there aren't.",
+    "Don't say 'It has' or 'There have' for places: 'There is a pool in my building'"
+  ],
+  "grammar": {
+    "explanation": [
+      "We use **there is / there are** to say that something **exists** or **is in a place**: ***There is** a pharmacy near my house. **There are** many cafés in the city.*",
+      "**There is** (there's) + **one thing** or uncountable: *There's a problem. There is some water.* **There are** + **plural**: *There are two problems.*",
+      "**Negative:** *There **isn't** a gym.* / *There **aren't any** parks.* **Question:** ***Is there** a lift? **Are there any** good restaurants?*",
+      "Learners often say *In my city have many parks* or *It has many parks*. In English we say: ***There are** many parks in my city.*"
+    ],
+    "table": {
+      "headers": ["", "Singular / uncountable", "Plural"],
+      "rows": [
+        ["Positive", "There is (There's) a bank.", "There are two banks."],
+        ["Negative", "There isn't a bank.", "There aren't any banks."],
+        ["Question", "Is there a bank?", "Are there any banks?"],
+        ["Short answer", "Yes, there is. / No, there isn't.", "Yes, there are. / No, there aren't."]
+      ]
+    },
+    "examples": [
+      { "en": "There's a small supermarket next to my building.", "note": "one thing" },
+      { "en": "There are three bedrooms and two bathrooms.", "note": "plural" },
+      { "en": "There isn't any milk in the fridge.", "note": "uncountable → isn't any" },
+      { "en": "Are there any questions? — No, there aren't.", "note": "question + short answer" },
+      { "en": "Is there a meeting today? — Yes, there is. It's at two.", "note": "also for events" },
+      { "en": "There are a lot of bugs in this code!", "note": "a lot of + plural → are" }
+    ],
+    "mistakes": [
+      { "wrong": "In my city have many parks.", "right": "There are many parks in my city.", "why": "Use 'there are' to say something exists." },
+      { "wrong": "There is two cars outside.", "right": "There are two cars outside.", "why": "Plural → there are." },
+      { "wrong": "Is there any shops near here?", "right": "Are there any shops near here?", "why": "Plural question → Are there any…?" },
+      { "wrong": "There have a problem.", "right": "There is a problem.", "why": "Never 'there have' — use there is / there are." }
+    ]
+  },
+  "exercises": [
+    { "type": "choice", "q": "___ a hospital near my house.", "options": ["There is", "There are", "It has"], "answer": ["There is"] },
+    { "type": "choice", "q": "___ five people in my team.", "options": ["There is", "There are", "Have"], "answer": ["There are"] },
+    { "type": "choice", "q": "___ any good restaurants here?", "options": ["Is there", "Are there", "There are"], "answer": ["Are there"] },
+    { "type": "fill", "q": "There ___ (not) any eggs. We need to buy some.", "answer": ["aren't", "are not"] },
+    { "type": "fill", "q": "___ there a lift in your building? — Yes, there is.", "answer": ["Is"] },
+    { "type": "fill", "q": "There ___ some coffee in the kitchen.", "answer": ["is", "'s"] },
+    { "type": "fix", "q": "In my street have a mosque.", "answer": ["There is a mosque in my street.", "There's a mosque in my street.", "There is a mosque on my street.", "There's a mosque on my street."] },
+    { "type": "fix", "q": "There is many cars on the road.", "answer": ["There are many cars on the road."] },
+    { "type": "fix", "q": "Are there a bank near here?", "answer": ["Is there a bank near here?"] },
+    { "type": "order", "q": "any / there / are / tickets / ?", "answer": ["Are there any tickets?"] },
+    { "type": "order", "q": "a / there's / table / the / problem / with", "answer": ["There's a problem with the table.", "There is a problem with the table."] },
+    { "type": "choice", "q": "Is there a gym in the hotel? — No, there ___.", "options": ["isn't", "aren't", "hasn't"], "answer": ["isn't"] }
+  ],
+  "listening": {
+    "title": "Looking for an apartment",
+    "script": [
+      { "speaker": "Agent", "text": "So, this is the apartment. There are two bedrooms and one bathroom." },
+      { "speaker": "Mona", "text": "It's nice. Is there a balcony?" },
+      { "speaker": "Agent", "text": "Yes, there is. It's small, but there's a great view." },
+      { "speaker": "Mona", "text": "And is there a washing machine?" },
+      { "speaker": "Agent", "text": "No, there isn't. But there's a laundry on the first floor." },
+      { "speaker": "Mona", "text": "OK. Are there any schools near here? I have two children." },
+      { "speaker": "Agent", "text": "Yes, there are two schools and a park, all five minutes away." },
+      { "speaker": "Mona", "text": "Great. Is there a bus stop?" },
+      { "speaker": "Agent", "text": "There isn't a bus stop on this street, but there's one on the main road." },
+      { "speaker": "Mona", "text": "Perfect. There aren't many apartments like this. I think I like it!" }
+    ],
+    "questions": [
+      { "q": "How many bedrooms are there?", "options": ["One.", "Two.", "Three."], "answer": "Two." },
+      { "q": "Where is the laundry?", "options": ["On the balcony.", "On the first floor.", "On the main road."], "answer": "On the first floor." },
+      { "q": "Why does Mona ask about schools?", "options": ["She is a teacher.", "She has two children.", "She wants to work there."], "answer": "She has two children." },
+      { "q": "Which sentence is correct?", "options": ["There is two schools.", "There are two schools.", "There have two schools."], "answer": "There are two schools." }
+    ]
+  },
+  "writing": {
+    "task": "Describe your city or neighbourhood for a friend who wants to visit (8–10 sentences). What is there? What isn't there? Add 2 questions you want to ask about your friend's city.",
+    "minWords": 70,
+    "tips": [
+      "Use there is AND there are many times.",
+      "Write at least 2 negatives (There isn't… / There aren't any…) and 2 questions (Is there…? / Are there any…?)."
+    ]
+  },
+  "speaking": {
+    "scenario": "You want to rent an apartment. You call the agent to ask about the apartment and the area.",
+    "aiRole": "Mr. Carter, a real estate agent who knows the apartment and the area well",
+    "goal": "Ask at least 6 questions with 'Is there…? / Are there any…?' about the apartment and the area, and say what you need (There are four people in my family…).",
+    "starter": "Hello, this is Mark Carter from City Homes. You called about the apartment on Green Street?"
+  }
+}
