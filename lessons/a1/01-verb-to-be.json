@@ -1,0 +1,92 @@
+{
+  "id": "a1-01-verb-to-be",
+  "level": "A1",
+  "order": 1,
+  "title": "The verb “to be”: am, is, are",
+  "goal": "Say who you are, what you do and how you feel — and never forget “am / is / are”.",
+  "keyPoints": [
+    "I am, you/we/they are, he/she/it is",
+    "Negative: add not (I'm not, isn't, aren't)",
+    "Question: put am/is/are first (Are you…? Is he…?)",
+    "Every English sentence needs a verb: 'He is a teacher', never 'He teacher'"
+  ],
+  "grammar": {
+    "explanation": [
+      "In English, **every sentence needs a verb**. When there is no action, we use the verb **to be**. Many languages (like Arabic) do not need a verb in “He a teacher” — English does: **He is a teacher.**",
+      "We use **to be** for: who you are (*I am Ahmad*), your job (*She is a developer*), where you are from (*We are from Jordan*), age (*I am 25*), feelings (*They are tired*) and places (*The keys are on the table*).",
+      "**Negative:** add **not** after the verb. **Question:** put the verb **before** the subject: *You are tired → Are you tired?*",
+      "In speaking we usually use short forms: **I'm, you're, he's, she's, it's, we're, they're, isn't, aren't**."
+    ],
+    "table": {
+      "headers": ["Subject", "Positive", "Negative", "Question"],
+      "rows": [
+        ["I", "I am (I'm)", "I am not (I'm not)", "Am I…?"],
+        ["you / we / they", "you are (you're)", "you are not (you aren't)", "Are you…?"],
+        ["he / she / it", "he is (he's)", "he is not (he isn't)", "Is he…?"]
+      ]
+    },
+    "examples": [
+      { "en": "I'm a software developer.", "note": "job → a/an + job" },
+      { "en": "She isn't at home. She's at work.", "note": "place" },
+      { "en": "Are you from Egypt? — No, I'm not. I'm from Jordan.", "note": "short answer: No, I'm not." },
+      { "en": "My brothers are 20 and 23 years old.", "note": "age: be + number (not 'have')" },
+      { "en": "Is it cold today? — Yes, it is.", "note": "short answer: Yes, it is." },
+      { "en": "We aren't hungry, but we are very tired.", "note": "feelings" }
+    ],
+    "mistakes": [
+      { "wrong": "He teacher.", "right": "He is a teacher.", "why": "English always needs the verb (is) — and 'a' before a job." },
+      { "wrong": "I have 25 years.", "right": "I am 25 (years old).", "why": "For age, English uses 'be', not 'have'." },
+      { "wrong": "You are from Syria?", "right": "Are you from Syria?", "why": "In questions, the verb comes first." },
+      { "wrong": "They is my friends.", "right": "They are my friends.", "why": "they → are, he/she/it → is." }
+    ]
+  },
+  "exercises": [
+    { "type": "choice", "q": "My sister ___ a nurse.", "options": ["am", "is", "are"], "answer": ["is"] },
+    { "type": "choice", "q": "We ___ from Palestine.", "options": ["am", "is", "are"], "answer": ["are"] },
+    { "type": "choice", "q": "___ you tired?", "options": ["Is", "Are", "Am"], "answer": ["Are"] },
+    { "type": "fill", "q": "I ___ (not / be) hungry.", "answer": ["am not", "'m not"] },
+    { "type": "fill", "q": "The meeting ___ (not / be) today. It's tomorrow.", "answer": ["is not", "isn't"] },
+    { "type": "fill", "q": "___ (be) your parents at home?", "answer": ["Are"] },
+    { "type": "fix", "q": "My father engineer.", "answer": ["My father is an engineer.", "My father's an engineer."] },
+    { "type": "fix", "q": "I have 30 years old.", "answer": ["I am 30 years old.", "I am 30.", "I'm 30 years old.", "I'm 30."] },
+    { "type": "fix", "q": "She are my manager.", "answer": ["She is my manager.", "She's my manager."] },
+    { "type": "order", "q": "you / are / ready / ?", "answer": ["Are you ready?"] },
+    { "type": "order", "q": "not / the / is / office / open", "answer": ["The office is not open.", "The office isn't open."] },
+    { "type": "choice", "q": "Is he your brother? — Yes, he ___.", "options": ["is", "he's", "are"], "answer": ["is"], "why": "In short answers with 'Yes', do not use the short form: Yes, he is." }
+  ],
+  "listening": {
+    "title": "First day at work",
+    "script": [
+      { "speaker": "Sara", "text": "Hi! Are you the new developer?" },
+      { "speaker": "Omar", "text": "Yes, I am. I'm Omar. Nice to meet you." },
+      { "speaker": "Sara", "text": "Nice to meet you, Omar. I'm Sara. I'm the team leader." },
+      { "speaker": "Omar", "text": "Oh, great! Is this my desk?" },
+      { "speaker": "Sara", "text": "No, it isn't. Your desk is next to the window." },
+      { "speaker": "Omar", "text": "Thank you. Are the other developers here today?" },
+      { "speaker": "Sara", "text": "Ali is here, but Lina and Sami aren't. They are at home today." },
+      { "speaker": "Omar", "text": "Are they sick?" },
+      { "speaker": "Sara", "text": "No, they aren't sick. They work from home on Mondays." },
+      { "speaker": "Omar", "text": "I see. I'm a little nervous, but I'm very happy to be here." }
+    ],
+    "questions": [
+      { "q": "What is Sara's job?", "options": ["She is a developer.", "She is the team leader.", "She is a manager in HR."], "answer": "She is the team leader." },
+      { "q": "Where is Omar's desk?", "options": ["Next to Sara.", "Next to the window.", "Next to the door."], "answer": "Next to the window." },
+      { "q": "Why are Lina and Sami at home?", "options": ["They are sick.", "They work from home on Mondays.", "They are on holiday."], "answer": "They work from home on Mondays." },
+      { "q": "Which sentence is correct?", "options": ["Lina and Sami isn't here.", "Lina and Sami aren't here.", "Lina and Sami not here."], "answer": "Lina and Sami aren't here." }
+    ]
+  },
+  "writing": {
+    "task": "Introduce yourself in 6–8 sentences: your name, age, where you are from, your job or studies, your family, and how you feel about learning English.",
+    "minWords": 50,
+    "tips": [
+      "Use am / is / are in every sentence.",
+      "Write one negative sentence (I'm not…) and one question (Are you…?)."
+    ]
+  },
+  "speaking": {
+    "scenario": "It is your first day at a new job. A colleague comes to say hello in the kitchen.",
+    "aiRole": "Sara, a friendly colleague who wants to know about the new person",
+    "goal": "Introduce yourself: your name, where you are from, your job, your age and how you feel today. Ask Sara 2 questions with 'Are you…? / Is…?'.",
+    "starter": "Hi! I don't think we've met. I'm Sara. Are you new here?"
+  }
+}
