@@ -1,0 +1,97 @@
+{
+  "id": "a1-04-articles",
+  "level": "A1",
+  "order": 4,
+  "title": "Articles: a, an, the (and no article)",
+  "goal": "Choose a / an / the correctly — one of the hardest small words for learners.",
+  "keyPoints": [
+    "a / an = one, not specific, first time we mention it (a car, an apple)",
+    "an before a vowel SOUND: an hour, an engineer — but a university",
+    "the = specific, both people know which one, or only one exists (the sun, the manager)",
+    "No article for general plural/uncountable ideas: I like coffee. Developers are busy.",
+    "Jobs need a/an: She is a doctor"
+  ],
+  "grammar": {
+    "explanation": [
+      "**a / an** means *one* — a thing that is **not specific**, often when we say it for the **first time**: *I have **a** car. She is **an** engineer.*",
+      "Use **an** before a vowel **sound**, not a vowel letter: ***an** hour* (h is silent), ***an** idea*, but ***a** university* (sounds like 'you').",
+      "**the** means a **specific** thing: we both know which one. *I have a car. **The** car is red.* (now you know which car) — *Close **the** door, please.* — Also for things that are **unique**: ***the** sun, **the** internet*.",
+      "**No article** when we talk about things **in general** with plural or uncountable nouns: *I love **coffee**. **Dogs** are friendly. **Life** is short.* — And with most names of people, cities and countries: *Ahmad lives in **Jordan**.*",
+      "In Arabic, 'al-' is used for general ideas too (القهوة لذيذة). In English, general = **no article**: *Coffee is delicious* — not *The coffee is delicious* (that means one specific coffee)."
+    ],
+    "table": {
+      "headers": ["Use", "Article", "Example"],
+      "rows": [
+        ["one, not specific / first time", "a / an", "I need a laptop."],
+        ["vowel sound", "an", "an email, an hour, an old house"],
+        ["specific / we know which", "the", "The laptop on my desk is slow."],
+        ["only one exists", "the", "the sun, the internet, the world"],
+        ["general idea (plural / uncountable)", "—", "Laptops are expensive. I like music."],
+        ["jobs", "a / an", "He is a teacher. She is an architect."]
+      ]
+    },
+    "examples": [
+      { "en": "I have an interview tomorrow.", "note": "an + vowel sound" },
+      { "en": "The interview is at ten o'clock.", "note": "now it's specific" },
+      { "en": "My brother is a university student.", "note": "'university' sounds like 'you' → a" },
+      { "en": "Water is important for health.", "note": "general → no article" },
+      { "en": "Can you open the window, please?", "note": "we both know which window" },
+      { "en": "She works as a data analyst in Riyadh.", "note": "job → a; city → no article" }
+    ],
+    "mistakes": [
+      { "wrong": "I am engineer.", "right": "I am an engineer.", "why": "Jobs need a / an." },
+      { "wrong": "The life is beautiful.", "right": "Life is beautiful.", "why": "General ideas → no article." },
+      { "wrong": "I waited for a hour.", "right": "I waited for an hour.", "why": "'hour' starts with a vowel sound (h is silent)." },
+      { "wrong": "I like the football.", "right": "I like football.", "why": "Sports and general things → no article." }
+    ]
+  },
+  "exercises": [
+    { "type": "choice", "q": "She is ___ accountant.", "options": ["a", "an", "the"], "answer": ["an"] },
+    { "type": "choice", "q": "Can you close ___ door, please?", "options": ["a", "an", "the"], "answer": ["the"] },
+    { "type": "choice", "q": "My cousin studies at ___ university in Canada.", "options": ["a", "an", "the"], "answer": ["a"] },
+    { "type": "choice", "q": "I don't drink ___ coffee at night.", "options": ["a", "the", "— (no article)"], "answer": ["— (no article)"] },
+    { "type": "choice", "q": "___ sun is very hot today.", "options": ["A", "The", "— (no article)"], "answer": ["The"] },
+    { "type": "fill", "q": "I bought ___ new phone. ___ phone has a great camera. (a/an/the)", "answer": ["a the", "a, the", "a / the"] },
+    { "type": "fill", "q": "It takes ___ hour to get to work. (a/an/the)", "answer": ["an"] },
+    { "type": "fix", "q": "My father is doctor.", "answer": ["My father is a doctor."] },
+    { "type": "fix", "q": "The money is not everything.", "answer": ["Money is not everything.", "Money isn't everything."] },
+    { "type": "fix", "q": "I have a idea.", "answer": ["I have an idea."] },
+    { "type": "order", "q": "is / the / where / station / ?", "answer": ["Where is the station?", "Where's the station?"] },
+    { "type": "choice", "q": "I love ___ books about history.", "options": ["a", "the", "— (no article)"], "answer": ["— (no article)"], "why": "Books in general → no article." }
+  ],
+  "listening": {
+    "title": "At the phone shop",
+    "script": [
+      { "speaker": "Assistant", "text": "Good morning! Can I help you?" },
+      { "speaker": "Rami", "text": "Yes, please. I need a new phone. My old phone is very slow." },
+      { "speaker": "Assistant", "text": "OK. Do you need a phone for work or for fun?" },
+      { "speaker": "Rami", "text": "For work. I'm an engineer, and I use email and video calls all day." },
+      { "speaker": "Assistant", "text": "Then look at this one. It has a big screen and a great battery." },
+      { "speaker": "Rami", "text": "How long is the battery life?" },
+      { "speaker": "Assistant", "text": "About two days. And it charges in an hour." },
+      { "speaker": "Rami", "text": "Nice. Phones are so expensive now. What's the price?" },
+      { "speaker": "Assistant", "text": "It's four hundred dollars, with a free case." },
+      { "speaker": "Rami", "text": "OK, I'll take it. Can I pay by card?" }
+    ],
+    "questions": [
+      { "q": "Why does Rami need a new phone?", "options": ["His old phone is broken.", "His old phone is very slow.", "He lost his phone."], "answer": "His old phone is very slow." },
+      { "q": "What is Rami's job?", "options": ["He's a teacher.", "He's a shop assistant.", "He's an engineer."], "answer": "He's an engineer." },
+      { "q": "How long does the phone take to charge?", "options": ["An hour.", "Two hours.", "Two days."], "answer": "An hour." },
+      { "q": "Why does Rami say 'Phones are so expensive' with NO article?", "options": ["He means one specific phone.", "He means phones in general.", "It is a mistake."], "answer": "He means phones in general." }
+    ]
+  },
+  "writing": {
+    "task": "Describe your room or your workplace (8 sentences). What things are there? Describe 3 of them in more detail. Then write 2 sentences about things you like in general (e.g. I like tea, Books are…).",
+    "minWords": 70,
+    "tips": [
+      "First time you mention something: a/an. Second time: the.",
+      "General ideas: no article. Check every noun!"
+    ]
+  },
+  "speaking": {
+    "scenario": "You are at an electronics shop. You want to buy something (a laptop, headphones, a phone…).",
+    "aiRole": "a helpful shop assistant who asks what you need and describes products",
+    "goal": "Explain what you want and why, ask about the product (Is the battery good? How much is the…?), and talk about your job (I'm a/an…).",
+    "starter": "Hello, welcome to TechStore! Are you looking for something special today?"
+  }
+}
